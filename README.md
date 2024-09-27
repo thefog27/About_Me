@@ -6,6 +6,7 @@
 - 👀 I’m interested in Data Analyctis/Business Intelligence (SQL, Data Warehousing, Cloud Technologies, Python, BI Tools)
 - 🌱 I’m currently learning Python🐍
 - 📫 How to reach me: nebel12@hotmail.de
+- Open to network and to meet like-minded people
 - ⚡ Hobbies (besides data analytics): Vinyl Collection, Cooking, Reading, Running (~10km)
 
 
