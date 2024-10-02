@@ -3,7 +3,7 @@
 * 🧰 Work experience:
   - Data Analyst in Sales Department at a Japanse manufacturing company (2,5 years)
   - Data Analyst in Product Department at a large German insurance company (since 2024)
-- 👀 I’m interested in Data Analyctis/Business Intelligence --> SQL, Data Warehousing, Cloud Technologies, Python, BI Tools (Power BI, Tableau, KNIME etc.)
+- 👀 I’m interested in Data Analyctis/Business Intelligence --> SQL, Data Warehousing, Cloud/Big Data Technologies, Python, BI Tools (Power BI, Tableau, KNIME etc.)
 - 📫 How to reach me: nebel12@hotmail.de
 - 👋 Open to network and to meet like-minded people
 - ⚡ Hobbies (besides data analytics/BI): Vinyl Collection, Cooking, Reading, Running (~10km)
